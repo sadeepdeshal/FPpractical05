@@ -1,5 +1,3 @@
-package FP_Prac06
-
 import scala.collection.mutable.Set
 
 case class Book(title: String, author: String, isbn: String)
