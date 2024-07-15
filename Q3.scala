@@ -1,5 +1,3 @@
-package FP_Prac06
-
 object Q3 {
 
     def printfibonacci(numbers: Int): Unit = {
